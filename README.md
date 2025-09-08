@@ -53,13 +53,6 @@ cd music-genre-prediction-using-ML/music
 ````
 
 2. Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-If `requirements.txt` is missing, install manually:
-
 ```bash
 pip install pandas scikit-learn matplotlib gradio
 ```
